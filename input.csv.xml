@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RECORDS>
+  <RECORD id="1">
+    <FIELD name="City" value="Tahanrog" />
+    <FIELD name="StreetType" value="street" />
+    <FIELD name="Street" value="Lenina" />
+  </RECORD>
+  <RECORD id="2">
+    <FIELD name="City" value="Rostov" />
+    <FIELD name="StreetType" value="street" />
+    <FIELD name="Street" value="B.Sadovaya" />
+  </RECORD>
+  <RECORD id="3">
+    <FIELD name="City" value="Moscow" />
+    <FIELD name="StreetType" value="ave" />
+    <FIELD name="Street" value="Zhukova" />
+  </RECORD>
+</RECORDS>
